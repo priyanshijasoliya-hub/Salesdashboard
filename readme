@@ -1,1 +1,47 @@
+📌 Project Overview
+This project features an interactive data analytics dashboard designed to analyze healthcare datasets, focusing on patient demographics, regional habits, healthcare facility utilization, and financial expenditures. The dashboard provides actionable insights to help healthcare providers, policymakers, and financial analysts understand public health trends and optimize cost distributions.
 
+📊 Key Features & Visualizations
+1. KPI Cards (Top Metrics)
+Provides a high-level summary of the filtered patient cohort:
+
+Avg. Age: 38.64
+
+Avg. BMI: 30.80 (Indicates an overall overweight/obese cohort baseline)
+
+Avg. Children: 1.05
+
+Avg. Charges: 14,268.28
+
+Patient Count: 115
+
+2. Demographic & Behavioral Insights
+No. of Smokers and Non-Smokers Across Region: A grouped column chart breaking down smoking habits across the Northeast, Northwest, Southeast, and Southwest regions.
+
+Smoking Habits: A 3D pie chart visualizing the total proportion of smokers vs. non-smokers (30 smokers vs. 85 non-smokers).
+
+3. Healthcare Facility Utilization
+Patients Across Healthcare Facilities: A treemap visualization mapping patient volume distribution across various facility tiers (e.g., Kenyatta National Hospital, Kakamega County Referral Hospital, Kibuye Health Centre).
+
+4. Financial Analysis
+Regional Healthcare Expenditure: A horizontal bar chart identifying total medical charges accumulated per geographical region.
+
+Facility-Wise Average Healthcare Costs: A detailed horizontal bar chart tracking average patient charges across individual hospitals and clinics, highlighting cost outliers.
+
+5. Interactive Slicers
+The dashboard includes dynamic filtering capabilities across four distinct dimensions:
+
+Sex: Female, Male
+
+Level: County Hospitals, County Referral Hospitals, Health Centres, National Referral Hospitals
+
+Weight Status: Healthy, Obese, Overweight, Underweight
+
+Region: Northeast, Northwest, Southeast, Southwest
+
+💡 Key Takeaways & Findings
+Smoking Patterns: The majority of smokers are concentrated in the Southeast region, indicating a critical focus area for public health interventions targeting smoking cessation.
+
+Healthcare Costs: Westlands Sub County Hospital records the highest average healthcare charges, suggesting an immediate need to investigate the operational or clinical factors driving costs at this specific facility.
+
+BMI and Weight Status: Patients with higher BMI values are predominantly classified as obese, with an average cohort BMI of 34.98. This highlights a high prevalence of obesity and points to a critical need for targeted wellness and weight management programs.
